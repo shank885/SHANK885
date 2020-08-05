@@ -25,8 +25,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Machine-Learning-Andrew-Ng&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Stanford_Machine_Learning_Python
-&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Stanford_Machine_Learning_Python&theme=radical" />
 </a>
 
 
