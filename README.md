@@ -13,6 +13,14 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Deep-Learning-Specialization-Coursera&theme=radical" />
+</a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHANK885)](https://github.com/anuraghazra/github-readme-stats)
 
 
