@@ -13,10 +13,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true" alt="centered image" />
 </p>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/SHANK885">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/SHANK885">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Deep-Learning-Specialization-Coursera&theme=radical" />
 </a>
 
