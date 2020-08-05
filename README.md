@@ -11,6 +11,6 @@
 
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=github-readme-statstheme=radical&theme=radical)](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=github-readme-statstheme=radical)](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization)
 
 
