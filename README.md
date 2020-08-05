@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I  write for machines😄.
 
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=github-readme-statstheme=radical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
