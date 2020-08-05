@@ -11,15 +11,13 @@
 
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Deep-Learning-Specialization-Coursera&theme=radical" />
 </a>
-
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Machine-Learning-Andrew-Ng&theme=radical" />
@@ -27,6 +25,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Stanford_Machine_Learning_Python&theme=radical" />
 </a>
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=RGB-to-Grayscale&theme=radical" />
