@@ -33,7 +33,7 @@
 <a href="https://github.com/SHANK885/PKNN-MIFS">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=PKNN-MIFS&theme=radical" />
 </a>
-
+'''
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHANK885&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+'''
 
