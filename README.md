@@ -2,11 +2,8 @@
 
 - 🔭 I’m currently working as a Machine Learning Engineer.
 - 🌱 I’m currently learning more concepts of machine learning.
-- 👯 I’m looking to collaborate on ________
 - 🤔 I’m looking for help with learning guitar.
-- 💬 Ask me about anything.
 - 📫 How to reach me: shashankshekhar885@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I  write for machines😄.
 
 <p class="aligncenter">
