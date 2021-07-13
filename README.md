@@ -42,14 +42,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=PKNN-MIFS&theme=radical" />
 </a>
 
-
-
-
-
 ### 🏆 Github Status
-<p class="aligncenter">
-    <img src="https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true" alt="centered image" />
-</p>
+<a href='https://github.com/shank885'>
+    <img alighn="center" src="https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true" alt="centered image" />
+</a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHANK885&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
