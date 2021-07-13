@@ -23,27 +23,15 @@
 ### 👀 Top Respositories
 [![Tensorflow in Practice Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Tensorflow-in-Practice-Specialization&theme=dark)](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization)
 
+[![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Deep-Learning-Specialization-Coursera&theme=dark)](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera)
 
-<a href="https://github.com/SHANK885/Tensorflow-in-Practice-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical" />
-</a>
-<a href="https://github.com/SHANK885/Deep-Learning-Specialization-Coursera">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Deep-Learning-Specialization-Coursera&theme=radical" />
-</a>
+[![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Machine-Learning-Andrew-Ng&theme=dark)](https://github.com/SHANK885/Machine-Learning-Andrew-Ng)
 
-<a href="https://github.com/SHANK885/Machine-Learning-Andrew-Ng">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Machine-Learning-Andrew-Ng&theme=radical" />
-</a>
-<a href="https://github.com/SHANK885/Stanford_Machine_Learning_Python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Stanford_Machine_Learning_Python&theme=radical" />
-</a>
+[![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Stanford_Machine_Learning_Python&theme=dark)](https://github.com/SHANK885/Stanford_Machine_Learning_Python)
 
-<a href="https://github.com/SHANK885/RGB-to-Grayscale">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=RGB-to-Grayscale&theme=radical" />
-</a>
-<a href="https://github.com/SHANK885/PKNN-MIFS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=PKNN-MIFS&theme=radical" />
-</a>
+[![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=RGB-to-Grayscale&theme=dark)](https://github.com/SHANK885/RGB-to-Grayscale)
+
+[![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=PKNN-MIFS&theme=dark)](https://github.com/SHANK885/PKNN-MIFS)
 
 ### 🏆 Github Status
 <a href='https://github.com/shank885'>
