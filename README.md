@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Machine Learning Engineer.
-- 🌱 I’m currently learning more concepts of machine learning.
-- 🤔 I’m looking for help with learning guitar.
+- 🌱 I’m currently learning more concepts of Machine Learning and AI.
 - 📫 How to reach me: shashankshekhar885@gmail.com
 - ⚡ Fun fact: I  write for machines😄.
 
