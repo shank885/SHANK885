@@ -22,7 +22,6 @@
 
 ### 👀 Top Respositories
 [![Tensorflow in Practice Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Tensorflow-in-Practice-Specialization&theme=dark)](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization)
-
 [![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Deep-Learning-Specialization-Coursera&theme=dark)](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera)
 
 [![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Machine-Learning-Andrew-Ng&theme=dark)](https://github.com/SHANK885/Machine-Learning-Andrew-Ng)
