@@ -51,7 +51,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHANK885&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### ☕ Get In Touch
-- [Gmail](shashankshekhar885@gmail.com)
+- shashankshekhar885@gmail.com
 - [Linkedin](https://www.linkedin.com/in/shank885)
 
 ### Visitors
