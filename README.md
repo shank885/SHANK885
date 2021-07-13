@@ -6,7 +6,7 @@
 - 📫 How to reach me: shashankshekhar885@gmail.com
 - ⚡ Fun fact: I  write for machines😄.
 
-
+### Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👨‍💻 Languages and Tools
@@ -42,9 +42,22 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=PKNN-MIFS&theme=radical" />
 </a>
 
+
+### 🏆 Github Status
 <p class="aligncenter">
     <img src="https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true" alt="centered image" />
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHANK885&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### ☕ Get In Touch
+- [Gmail](shashankshekhar885@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/shank885)
+
+### Visitors
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
+
+
+
+
 
