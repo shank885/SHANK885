@@ -17,10 +17,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/shank885)](https://github.com/shank885)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/shank885)](https://github.com/shank885)
 
-
-<p class="aligncenter">
-    <img src="https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true" alt="centered image" />
-</p>
   
 <a href="https://github.com/SHANK885/Tensorflow-in-Practice-Specialization">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical" />
@@ -42,6 +38,10 @@
 <a href="https://github.com/SHANK885/PKNN-MIFS">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=PKNN-MIFS&theme=radical" />
 </a>
+
+<p class="aligncenter">
+    <img src="https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true" alt="centered image" />
+</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHANK885&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
