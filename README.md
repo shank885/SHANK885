@@ -41,7 +41,7 @@
 - shashankshekhar885@gmail.com
 - [Linkedin](https://www.linkedin.com/in/shank885)
 
-### Visitors
+### Total Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
 
 
