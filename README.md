@@ -17,7 +17,10 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/shank885)](https://github.com/shank885)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/shank885)](https://github.com/shank885)
 
-  
+### 👀 Activity Graph
+[![Shashank's github activity graph](https://activity-graph.herokuapp.com/graph?username=shank885&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 👀 Top Respos
 <a href="https://github.com/SHANK885/Tensorflow-in-Practice-Specialization">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical" />
 </a>
