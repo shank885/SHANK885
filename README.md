@@ -1,8 +1,3 @@
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Machine Learning Engineer.
@@ -10,6 +5,14 @@
 - 🤔 I’m looking for help with learning guitar.
 - 📫 How to reach me: shashankshekhar885@gmail.com
 - ⚡ Fun fact: I  write for machines😄.
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 👨‍💻 Languages and Tools
+[![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2Blink=https://github.com/shank885)](https://github.com/shank885) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/shank885)](https://github.com/shank885)
+
 
 <p class="aligncenter">
     <img src="https://github-readme-stats.vercel.app/api?username=SHANK885&show_icons=true&theme=radical&count_private=true" alt="centered image" />
