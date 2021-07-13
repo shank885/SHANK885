@@ -21,6 +21,9 @@
 [![Shashank's github activity graph](https://activity-graph.herokuapp.com/graph?username=shank885&theme=react-dark)](https://github.com/shank885)
 
 ### 👀 Top Respositories
+[![Tensorflow in Practice Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Tensorflow-in-Practice-Specialization&theme=dark)](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization)
+
+
 <a href="https://github.com/SHANK885/Tensorflow-in-Practice-Specialization">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SHANK885&repo=Tensorflow-in-Practice-Specialization&theme=radical" />
 </a>
