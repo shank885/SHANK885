@@ -5,6 +5,9 @@
 - 📫 How to reach me: shashankshekhar885@gmail.com
 - ⚡ Fun fact: I  write for machines😄.
 
+### Total Visitors
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
+
 ### Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -39,11 +42,3 @@
 ### ☕ Get In Touch
 - shashankshekhar885@gmail.com
 - [Linkedin](https://www.linkedin.com/in/shank885)
-
-### Total Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
-
-
-
-
-
