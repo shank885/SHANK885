@@ -7,12 +7,12 @@
 
 ### Total Visitors
 <div align=center>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)]
 </div>
 
 ### Github Trophy
 <div align=center>
-[![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
 </div>
     
 ### 👨‍💻 Languages and Tools
