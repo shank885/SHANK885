@@ -7,15 +7,16 @@
 
 ### Total Visitors
 <div align=center>
-[visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)]
 </div>
 
 ### Github Trophy
 <div align=center>
-[![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+    [![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
     
 ### 👨‍💻 Languages and Tools
+<br>
 <div align=center>
 [![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2Blink=https://github.com/shank885)](https://github.com/shank885) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/shank885)](https://github.com/shank885)
