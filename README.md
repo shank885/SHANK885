@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I  write for machines😄.
 
 ### Total Visitors
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
 
 ### Github Trophy
 <div align=center>
