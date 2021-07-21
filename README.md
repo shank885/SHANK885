@@ -10,8 +10,7 @@
 
 ### Github Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)(https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=shank885&theme=onedark)
     
 ### 👨‍💻 Languages and Tools
 [![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2Blink=https://github.com/shank885)](https://github.com/shank885) 
