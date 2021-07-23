@@ -31,8 +31,6 @@
 [![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Machine-Learning-Andrew-Ng&theme=dark)](https://github.com/SHANK885/Machine-Learning-Andrew-Ng)
 [![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Stanford_Machine_Learning_Python&theme=dark)](https://github.com/SHANK885/Stanford_Machine_Learning_Python)
 
-[![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=RGB-to-Grayscale&theme=dark)](https://github.com/SHANK885/RGB-to-Grayscale)
-[![Deep Learning Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=PKNN-MIFS&theme=dark)](https://github.com/SHANK885/PKNN-MIFS)
 
 ### 🏆 Github Status
 <a href='https://github.com/shank885'>
