@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Machine Learning Engineer.
-- 🌱 I’m currently learning more concepts of Machine Learning and AI.
+- 🔭 I’m currently working as a Senior Machine Learning Engineer.
+- 🌱 I’m currently learning more Machine Learning and Artificial Intelligence concepts.
 - 📫 How to reach me: shashankshekhar885@gmail.com
 - ⚡ Fun fact: I  write for machines😄.
 
 ### Total Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885&left_color=green&right_color=red)
 
 ### Github Trophy
 
@@ -20,9 +21,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/shank885)](https://github.com/shank885)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/shank885)](https://github.com/shank885)
 
-    
-### 👀 Activity Graph
-[![Shashank's github activity graph](https://activity-graph.herokuapp.com/graph?username=shank885&theme=react-dark)](https://github.com/shank885)
+
 
 ### 👀 Top Respositories
 [![Tensorflow in Practice Specialization](https://github-readme-stats.vercel.app/api/pin/?username=shank885&repo=Tensorflow-in-Practice-Specialization&theme=dark)](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization)
