@@ -7,7 +7,6 @@
 
 ### Total Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885&left_color=green&right_color=red)
 
 ### Github Trophy
 
