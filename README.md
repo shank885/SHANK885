@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Senior Machine Learning Engineer.
 - 🌱 I’m currently learning more Machine Learning and Artificial Intelligence concepts.
 - 📫 How to reach me: shashankshekhar885@gmail.com
-- ⚡ Fun fact: I  write for machines😄.
+- ⚡ Fun fact: I  write for machines and teach them how to do things😄.
 
 ### Total Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shank885.visitor-badge)
