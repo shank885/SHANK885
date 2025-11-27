@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Shashank+%F0%9F%91%8B;Lead+AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Shashank+%F0%9F%91%8B;Lead+AI+Engineer;Building+Intelligent+Systems;AI+Solutions+Architect" alt="Typing SVG" />
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=shank885&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
